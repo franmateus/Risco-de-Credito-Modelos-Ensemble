@@ -1,2 +1,2 @@
-# Risco-de-Credito-Modelos-Ensemble
-Esta é a primeira versão de modelos de classificação de risco de crédito usando algoritmos de Árvore de Decisão e Métodos Ensemble (Random Forest, Bagging, AdaBoost, Extra Trees e Gradiente Boosting). 
+## Classificação de Risco de Crédito com Modelos Ensemble
+Modelo de classificação de risco de crédito usando algoritmos de Árvore de Decisão e os Métodos Ensemble Random Forest, Bagging, AdaBoost, Extra Trees e Gradiente Boosting.
